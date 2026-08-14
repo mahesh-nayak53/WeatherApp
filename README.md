@@ -29,7 +29,7 @@ A web-based weather application developed using **Java Servlets** that allows us
 
 ### Tools
 
-* Eclipse / IntelliJ IDEA
+* Eclipse 
 * Apache Tomcat
 * Git & GitHub
 * Postman
