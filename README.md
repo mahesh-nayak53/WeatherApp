@@ -160,7 +160,7 @@ This project helped demonstrate practical implementation of:
 * Apache Tomcat deployment
 
 ## Future Enhancements
-
+ 
 * Add search history
 * Add responsive mobile UI
 * Add loading animations
